@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "channel": "beta",
+  "version": "0.9.1c",
+  "launcher_file_version": "0.9.1.2",
+  "date": "2026-11-01",
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.1c",
+  "zip": "ISS2000-PC-beta-0.9.1c.zip",
+  "zip_sha256": "b12cca523dcc932ba08e30ad700499fef5b08e92fea94bdf5dc1276aed505aa4",
+  "zip_size": 19871077,
+  "notes": "New launcher without scripts (fixes a false virus warning). No console window flashes; Controllers close error fixed."
+}
