@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.2a",
+  "version": "0.9.2",
   "launcher_file_version": "0.9.2.0",
   "date": "2026-11-02",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.2a",
-  "zip": "ISS2000-PCPort-NC-0.9.2a.zip",
-  "zip_sha256": "b392a7322369795a9b4e6ca615616f67e2c66b3868a42f68382478b4c45fedce",
-  "zip_size": 19904410,
-  "notes": "Automatic update test: same game as 0.9.2."
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.2",
+  "zip": "ISS2000-PCPort-NC-0.9.2.zip",
+  "zip_sha256": "0be6f6b68549cbad35aeb4aa2749e0e505d632bfaf49669bd368b2e67ea62287",
+  "zip_size": 20010693,
+  "notes": "Smooth 2D (texts, panels, score, minute, indicators, TV), scorer-panel flags fixed, no more fouls from behind on feints, automatic updates, new folder name ISS2000-PCPort-NC."
 }
