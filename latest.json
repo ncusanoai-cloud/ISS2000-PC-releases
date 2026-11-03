@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.9.3",
+  "launcher_file_version": "0.9.3.0",
+  "date": "2026-11-03",
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.3",
+  "zip": "ISS2000-PCPort-NC-0.9.3.zip",
+  "zip_sha256": "fa80e1821e8fa2a1741b322969a40982f82456e85c4bf1a23d0cdc73711fdef3",
+  "zip_size": 20020762,
+  "notes": "More realistic simulated results based on players' abilities, CPU substitutions in simulated matches, pre-match HOME/AWAY label fixed."
+}
