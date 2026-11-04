@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.4",
-  "launcher_file_version": "0.9.4.0",
+  "version": "0.9.4a",
+  "launcher_file_version": "0.9.4.1",
   "date": "2026-11-04",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.4",
-  "zip": "ISS2000-PCPort-NC-0.9.4.zip",
-  "zip_sha256": "b21a3ad59624488a27b3aafa073bc6477d2e4b4bde050205735b71af7d51d123",
-  "zip_size": 20025193,
-  "notes": "START skips to the main menu, more realistic CPU red-card substitutions, new Gameplay window: options, max substitutions 3/4/5, CPU defender closing at level 5."
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.4a",
+  "zip": "ISS2000-PCPort-NC-0.9.4a.zip",
+  "zip_sha256": "ccbf837e02c39acf1d7643dea7df5733b025a7dcd42c8f78437278f600e8ae6a",
+  "zip_size": 20025545,
+  "notes": "Gameplay Patcher in English with Fast intro option, START skips to the main menu, more realistic CPU red-card substitutions, max substitutions 3/4/5, CPU defender closing at level 5."
 }
