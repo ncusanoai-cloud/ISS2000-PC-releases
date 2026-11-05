@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.4a",
-  "launcher_file_version": "0.9.4.1",
-  "date": "2026-11-04",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.4a",
-  "zip": "ISS2000-PCPort-NC-0.9.4a.zip",
-  "zip_sha256": "ccbf837e02c39acf1d7643dea7df5733b025a7dcd42c8f78437278f600e8ae6a",
-  "zip_size": 20025545,
-  "notes": "Gameplay Patcher in English with Fast intro option, START skips to the main menu, more realistic CPU red-card substitutions, max substitutions 3/4/5, CPU defender closing at level 5."
+  "version": "0.9.5",
+  "launcher_file_version": "0.9.5.0",
+  "date": "2026-11-05",
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.5",
+  "zip": "ISS2000-PCPort-NC-0.9.5.zip",
+  "zip_sha256": "78738d40c4990675b8e4028f172c3299e477943dd13422745db90fefe3504f15",
+  "zip_size": 20033481,
+  "notes": "Career CPU coach no longer changes the human team and custom Career team crash fixed, CPU no longer kicks the ball out to substitute (except injuries), World Cup Win/Loss symbols fixed."
 }
