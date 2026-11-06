@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.5",
-  "launcher_file_version": "0.9.5.0",
-  "date": "2026-11-05",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.5",
-  "zip": "ISS2000-PCPort-NC-0.9.5.zip",
-  "zip_sha256": "78738d40c4990675b8e4028f172c3299e477943dd13422745db90fefe3504f15",
-  "zip_size": 20033481,
-  "notes": "Career CPU coach no longer changes the human team and custom Career team crash fixed, CPU no longer kicks the ball out to substitute (except injuries), World Cup Win/Loss symbols fixed."
+  "version": "0.9.6",
+  "launcher_file_version": "0.9.6.0",
+  "date": "2026-11-06",
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.6",
+  "zip": "ISS2000-PCPort-NC-0.9.6.zip",
+  "zip_sha256": "0c177d00ce647e05abf028380ebb482561b9e94c6ae96cf70fdae81f4111da76",
+  "zip_size": 20042387,
+  "notes": "Settings, edited teams/players and Career progress saved automatically at the main menu (competitions still saved by you), backup copy of every save, International Cup and Euro Cup finals in June-July with France 98 / EURO 2000 dates and rest days."
 }
