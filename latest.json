@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.6",
-  "launcher_file_version": "0.9.6.0",
+  "version": "0.9.7",
+  "launcher_file_version": "0.9.7.0",
   "date": "2026-11-06",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.6",
-  "zip": "ISS2000-PCPort-NC-0.9.6.zip",
-  "zip_sha256": "0c177d00ce647e05abf028380ebb482561b9e94c6ae96cf70fdae81f4111da76",
-  "zip_size": 20042387,
-  "notes": "Settings, edited teams/players and Career progress saved automatically at the main menu (competitions still saved by you), backup copy of every save, International Cup and Euro Cup finals in June-July with France 98 / EURO 2000 dates and rest days."
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.7",
+  "zip": "ISS2000-PCPort-NC-0.9.7.zip",
+  "zip_sha256": "fdf5a40dbb8e57f3ea4b8c336b96aa83565ced984c48568539b69d3caaee7047",
+  "zip_size": 20050208,
+  "notes": "Xbox 360 and similar pads can now be fully bound in the Controllers window, all 48 International Cup and Euro Cup qualifier teams start with full energy, new realistic recovery between close competition matches (on by default)."
 }
