@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.8",
-  "launcher_file_version": "0.9.8.0",
+  "version": "0.9.9",
+  "launcher_file_version": "0.9.9.0",
   "date": "2026-11-07",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.8",
-  "zip": "ISS2000-PCPort-NC-0.9.8.zip",
-  "zip_sha256": "827aee7803634a2232cc7d7f0f8694aa5baeaae51205743b75bec2446c2becb0",
-  "zip_size": 20095173,
-  "notes": "New Saves window to restore automatic Pak backups, controller binding no longer stops with some wireless Xbox 360 pads, improved rumble on Xbox 360 pads."
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.9",
+  "zip": "ISS2000-PCPort-NC-0.9.9.zip",
+  "zip_sha256": "dab4f10eeb76d7e591e661f4cdb87dbe297a7190d65ab837ee26af8e44afd843",
+  "zip_size": 20841601,
+  "notes": "Every national team has its own high-resolution flag (on by default); flags are in the teams folder, one folder per team, and can be replaced with your own."
 }
