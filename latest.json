@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.7",
-  "launcher_file_version": "0.9.7.0",
-  "date": "2026-11-06",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.7",
-  "zip": "ISS2000-PCPort-NC-0.9.7.zip",
-  "zip_sha256": "fdf5a40dbb8e57f3ea4b8c336b96aa83565ced984c48568539b69d3caaee7047",
-  "zip_size": 20050208,
-  "notes": "Xbox 360 and similar pads can now be fully bound in the Controllers window, all 48 International Cup and Euro Cup qualifier teams start with full energy, new realistic recovery between close competition matches (on by default)."
+  "version": "0.9.7a",
+  "launcher_file_version": "0.9.7.1",
+  "date": "2026-11-07",
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.7a",
+  "zip": "ISS2000-PCPort-NC-0.9.7a.zip",
+  "zip_sha256": "feac045638949b24ae8ec2a8d01f770aa3f162eef0a51b7fd6808e83afd42a10",
+  "zip_size": 20072577,
+  "notes": "Quick button taps always detected when binding controllers, Controllers window shows what the main buttons do (Shoot, Pass/Tackling, Through...)."
 }
