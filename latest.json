@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.9.7a",
-  "launcher_file_version": "0.9.7.1",
+  "version": "0.9.8",
+  "launcher_file_version": "0.9.8.0",
   "date": "2026-11-07",
-  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.7a",
-  "zip": "ISS2000-PCPort-NC-0.9.7a.zip",
-  "zip_sha256": "feac045638949b24ae8ec2a8d01f770aa3f162eef0a51b7fd6808e83afd42a10",
-  "zip_size": 20072577,
-  "notes": "Quick button taps always detected when binding controllers, Controllers window shows what the main buttons do (Shoot, Pass/Tackling, Through...)."
+  "page": "https://github.com/ncusanoai-cloud/ISS2000-PC-releases/releases/tag/v0.9.8",
+  "zip": "ISS2000-PCPort-NC-0.9.8.zip",
+  "zip_sha256": "827aee7803634a2232cc7d7f0f8694aa5baeaae51205743b75bec2446c2becb0",
+  "zip_size": 20095173,
+  "notes": "New Saves window to restore automatic Pak backups, controller binding no longer stops with some wireless Xbox 360 pads, improved rumble on Xbox 360 pads."
 }
