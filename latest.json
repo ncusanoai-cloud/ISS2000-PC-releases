@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "zip": "ISS2000-PCPort-NC-1.0.0.zip",
-  "zip_sha256": "7a2c8f214c4c060909b35bf25b3d8f91450804de8605079c40187a04b33a2cb3",
-  "zip_size": 21953604,
-  "notes": "ISS2000 PC Port NC 1.0.0 - 8 November 2026\n\nChanges since 0.9.9:\n- Reports now open File Explorer with the ZIP selected: send that file to me. The launcher also has an Open reports folder button.\n- Reports include the latest game sessions from this version even when the PC clock is wrong, warn if none are found, and include the processor model and core counts.\n- Team flags show the complete image in Select Teams, pre-match summaries and the scoreboard; the selection panel light stays smooth and summary flags survive dialogs and menu transitions.\n- The owner's original Euro Stars, Asia Stars, Africa Stars, All America Stars and World Stars artwork is included. Unchanged ROM-generated files migrate automatically when you start the game; customised files are kept. Euro Stars B remains generated from your own ROM.\n- Physical Rumble Pak / Controller Pak swap prompts are skipped on PC after the real controller checks. Saving, loading and rumble still use the normal PC services.\n"
+  "version": "1.0.1",
+  "zip": "ISS2000-PCPort-NC-1.0.1.zip",
+  "zip_sha256": "c2e3ccf1195e00f7447a5faca2c4651609fc5813780cbafe659b37b5066a47c5",
+  "zip_size": 21982766,
+  "notes": "ISS2000 PC Port NC 1.0.1 - 9 November 2026\n\nChanges since 1.0.0:\n- Less processing work per match frame: around one third less frame parsing time on the test PC, with the same graphics quality.\n- Night matches avoid the pause when a night flag is first drawn.\n- Windows 11 no longer slows the game timer after you switch to another window and return.\n"
 }
