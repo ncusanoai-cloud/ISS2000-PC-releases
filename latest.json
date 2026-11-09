@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "zip": "ISS2000-PCPort-NC-1.0.1.zip",
-  "zip_sha256": "c2e3ccf1195e00f7447a5faca2c4651609fc5813780cbafe659b37b5066a47c5",
-  "zip_size": 21982766,
-  "notes": "ISS2000 PC Port NC 1.0.1 - 9 November 2026\n\nChanges since 1.0.0:\n- Less processing work per match frame: around one third less frame parsing time on the test PC, with the same graphics quality.\n- Night matches avoid the pause when a night flag is first drawn.\n- Windows 11 no longer slows the game timer after you switch to another window and return.\n"
+  "version": "1.0.2",
+  "zip": "ISS2000-PCPort-NC-1.0.2.zip",
+  "zip_sha256": "f7a7fbd4c8d295f7a1b9fff0851e227d70053d27d84c234c925abcad972e4360",
+  "zip_size": 22036213,
+  "notes": "ISS2000 PC Port NC 1.0.2 - 9 November 2026\n\nWhat's new since 1.0.1:\n- Custom menu backgrounds: the first time you start the game, the menu backgrounds are saved\n  as PNG files in the \"backgrounds\" folder. Edit them with any image editor: one file changes\n  every menu that uses it.\n- Live reload: change a flag or a background while the game is running and you will see it\n  straight away, no restart needed.\n- Smoother matches: fewer short hitches when the game briefly loses its frame rhythm.\n- Better reports: \"Collect report\" now records the real frame rate and timing, so stutter\n  problems are easier to track down.\n"
 }
