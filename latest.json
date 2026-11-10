@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "zip": "ISS2000-PCPort-NC-1.0.4.zip",
-  "zip_sha256": "dc01d1a6fbf1ab3c7201b2849eb16dfa5df8ca515d9d293bc063d1f7176bc764",
-  "zip_size": 23830664,
-  "notes": "ISS2000 PC Port NC 1.0.4 - 10 November 2026\n\nWhat's new since 1.0.3:\n- New app icon and launcher logo.\n- Old update backup folders are now cleaned up automatically: only the latest one is kept.\n"
+  "version": "1.0.5",
+  "zip": "ISS2000-PCPort-NC-1.0.5.zip",
+  "zip_sha256": "c4688c2a77b31c956d3e1a2ade058752828c15a1d31ab1fe3d1d7cf18264915b",
+  "zip_size": 23835950,
+  "notes": "ISS2000 PC Port NC 1.0.5 - 10 November 2026\n\nWhat's new since 1.0.4:\n- Better performance on PCs with fewer processor cores: the game no longer keeps a core busy\n  while it waits for the graphics card.\n- Less work per frame during matches.\n"
 }
