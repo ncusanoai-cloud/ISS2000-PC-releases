@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "zip": "ISS2000-PCPort-NC-1.0.3.zip",
-  "zip_sha256": "b4cef4475903cd4ca36cc5c4604fd78d929353a3a365dc05c39ddd6e99be94ec",
-  "zip_size": 22038910,
-  "notes": "ISS2000 PC Port NC 1.0.3 - 10 November 2026\n\nWhat's new since 1.0.2:\n- New FPS option, right under Graphics: choose 60 (smooth, default) or 30. On older or\n  low-power PCs, 30 FPS gives a steadier picture with fewer hitches.\n"
+  "version": "1.0.4",
+  "zip": "ISS2000-PCPort-NC-1.0.4.zip",
+  "zip_sha256": "dc01d1a6fbf1ab3c7201b2849eb16dfa5df8ca515d9d293bc063d1f7176bc764",
+  "zip_size": 23830664,
+  "notes": "ISS2000 PC Port NC 1.0.4 - 10 November 2026\n\nWhat's new since 1.0.3:\n- New app icon and launcher logo.\n- Old update backup folders are now cleaned up automatically: only the latest one is kept.\n"
 }
