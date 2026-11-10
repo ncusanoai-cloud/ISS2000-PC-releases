@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "zip": "ISS2000-PCPort-NC-1.0.2.zip",
-  "zip_sha256": "f7a7fbd4c8d295f7a1b9fff0851e227d70053d27d84c234c925abcad972e4360",
-  "zip_size": 22036213,
-  "notes": "ISS2000 PC Port NC 1.0.2 - 9 November 2026\n\nWhat's new since 1.0.1:\n- Custom menu backgrounds: the first time you start the game, the menu backgrounds are saved\n  as PNG files in the \"backgrounds\" folder. Edit them with any image editor: one file changes\n  every menu that uses it.\n- Live reload: change a flag or a background while the game is running and you will see it\n  straight away, no restart needed.\n- Smoother matches: fewer short hitches when the game briefly loses its frame rhythm.\n- Better reports: \"Collect report\" now records the real frame rate and timing, so stutter\n  problems are easier to track down.\n"
+  "version": "1.0.3",
+  "zip": "ISS2000-PCPort-NC-1.0.3.zip",
+  "zip_sha256": "b4cef4475903cd4ca36cc5c4604fd78d929353a3a365dc05c39ddd6e99be94ec",
+  "zip_size": 22038910,
+  "notes": "ISS2000 PC Port NC 1.0.3 - 10 November 2026\n\nWhat's new since 1.0.2:\n- New FPS option, right under Graphics: choose 60 (smooth, default) or 30. On older or\n  low-power PCs, 30 FPS gives a steadier picture with fewer hitches.\n"
 }
