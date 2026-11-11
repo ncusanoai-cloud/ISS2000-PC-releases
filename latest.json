@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "zip": "ISS2000-PCPort-NC-1.0.5.zip",
-  "zip_sha256": "c4688c2a77b31c956d3e1a2ade058752828c15a1d31ab1fe3d1d7cf18264915b",
-  "zip_size": 23835950,
-  "notes": "ISS2000 PC Port NC 1.0.5 - 10 November 2026\n\nWhat's new since 1.0.4:\n- Better performance on PCs with fewer processor cores: the game no longer keeps a core busy\n  while it waits for the graphics card.\n- Less work per frame during matches.\n"
+  "version": "1.0.6",
+  "zip": "ISS2000-PCPort-NC-1.0.6.zip",
+  "zip_sha256": "8012200d4eea4f957190c6b3e83e3cf3dbbf7361445aee6f843291a1691e82ac",
+  "zip_size": 23930304,
+  "notes": "ISS2000 PC Port NC 1.0.6 - 11 November 2026\n\nWhat's new since 1.0.5:\n- Custom kits: every team folder now has editable PNGs for the home, away and goalkeeper kits\n  (shirt and sleeves), the back numbers and the captain armband. They are created from your ROM\n  the first time you start the game, follow the same layout as the ISS Editor, accept images up\n  to 8x the original size and reload while the game is running. Customised files are never\n  overwritten.\n- Back numbers sit closer to the shirt, as on a real kit.\n- The captain armband now stays on the arm during replays.\n"
 }
